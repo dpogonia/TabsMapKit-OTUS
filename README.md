@@ -13,8 +13,8 @@ SwiftUI, MapKit.
 ## Запуск
 
 ```bash
-git clone https://github.com/dpogonia/TabsOTUS.git
-cd TabsOTUS
+git clone https://github.com/dpogonia/TabsMapKit-OTUS.git
+cd TabsMapKit-OTUS
 open OTUSLesson1.xcodeproj
 ```
 
